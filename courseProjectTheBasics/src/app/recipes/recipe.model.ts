@@ -7,6 +7,9 @@ export class Recipe {
         this.name = name;
         this.description = desc;
         this.imagePath = imagePath;
+<<<<<<< HEAD
 
+=======
+>>>>>>> afb5f53e44fc51ad7d3bb50521fe1f12b78206f5
     }
 }
